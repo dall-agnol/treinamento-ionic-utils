@@ -17,6 +17,25 @@ Git Windows 32-bit Setup - [Download](https://github.com/git-for-windows/git/rel
 
 Git Windows 64-bit Setup - [Download](https://github.com/git-for-windows/git/releases/download/v2.28.0.windows.1/Git-2.28.0-64-bit.exe)
 
+## Python
+
+Python 2.7.18 - 64bit - [Download](https://www.python.org/ftp/python/2.7.18/python-2.7.18.amd64.msi)
+
+Python 2.7.18 - 32bit - [Download](https://www.python.org/ftp/python/2.7.18/python-2.7.18.msi)
+
+## NVM (Node Version Manager)
+
+NVM 1.1.7 - [Download](https://github.com/coreybutler/nvm-windows/releases/download/1.1.7/nvm-setup.zip)
+
+## Node 8.12.0
+`nvm install 8.12.0`
+
+## Node 10.15.0
+
+`nvm install 10.15.0`
+
+
+
 
 
 Após instalar o NVM (Node Version Manager):
@@ -33,4 +52,10 @@ Instalar o Cordova 8 (npm install -g cordova@8.0.0);
 
 
 
+# Possíveis problemas
+
+
+Python abre loja do w10:
 'Aliases de execução de app' para tirar python 3 da loja
+
+Python nao é reconhecido como um comando interno:
