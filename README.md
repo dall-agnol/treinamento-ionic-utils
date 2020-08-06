@@ -27,6 +27,16 @@ Python 2.7.18 - 32bit - [Download](https://www.python.org/ftp/python/2.7.18/pyth
 
 NVM 1.1.7 - [Download](https://github.com/coreybutler/nvm-windows/releases/download/1.1.7/nvm-setup.zip)
 
+
+## JDK
+
+JDK 1.8 - [Site para Download](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+
+## Android Studio
+
+Android Studio - [Download](https://redirector.gvt1.com/edgedl/android/studio/install/4.0.1.0/android-studio-ide-193.6626763-windows.exe)
+
+
 ## Node 8.12.0
 `nvm install 8.12.0`
 
@@ -34,6 +44,9 @@ NVM 1.1.7 - [Download](https://github.com/coreybutler/nvm-windows/releases/downl
 
 `nvm install 10.15.0`
 
+## Ionic
+
+`npm install -g ionic@3.9.2`
 
 
 
