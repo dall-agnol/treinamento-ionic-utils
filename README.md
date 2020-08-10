@@ -6,10 +6,13 @@
 - Python
 - Java
 - Android Studio
+- Gradle
 - Node Version Manager
 - Node
 - Ionic
 - Cordova
+
+# Instalação
 
 ## Git
 
@@ -36,32 +39,37 @@ JDK 1.8 - [Site para Download](https://www.oracle.com/br/java/technologies/javas
 
 Android Studio - [Download](https://redirector.gvt1.com/edgedl/android/studio/install/4.0.1.0/android-studio-ide-193.6626763-windows.exe)
 
+## Gradle
+
+Gradle bin - [Download](https://gradle.org/next-steps/?version=6.5.1&format=bin)
 
 ## Node 8.12.0
 `nvm install 8.12.0`
-
-## Node 10.15.0
-
-`nvm install 10.15.0`
 
 ## Ionic
 
 `npm install -g ionic@3.9.2`
 
+## Cordova 8.0.0
+
+`npm install -g cordova@8.0.0`
+
+## Plataforma Android
+
+`ionic cordova platform add android@7.0.0`
+
+# Variáveis de ambiente
+
+Criar variáveis de ambiente para:
+
+- Python
+- Java JDK
+- Android Studio
+- Gradle
 
 
 
-Após instalar o NVM (Node Version Manager):
 
-Instalar a versão 13.12.0 do node (nvm install 10.7.0);
-
-Instalar a versão 8.11.3 do node (nvm install 8.11.3);
-
-Entrar na versão 8.11.3 (nvm use 8.11.3);
-
-Instalar o Ionic 3 (npm install -g ionic@3.9.2);
-
-Instalar o Cordova 8 (npm install -g cordova@8.0.0);
 
 
 
@@ -72,3 +80,4 @@ Python abre loja do w10:
 'Aliases de execução de app' para tirar python 3 da loja
 
 Python nao é reconhecido como um comando interno:
+Adicionar PYTHON nas VARIAVEIS DE AMBIENTE
